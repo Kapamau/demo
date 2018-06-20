@@ -1,0 +1,10 @@
+DBconnect Class{
+
+
+public gethostname(){
+    
+}
+
+
+
+}
